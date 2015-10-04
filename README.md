@@ -1,16 +1,16 @@
-=== Sunrise - Coming Soon & Maintenance Mode ===
-Contributors: litonice13, jwthemeltd, codepassenger
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jwthemeltd@gmail.com&lc=US&item_name=Donate&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest
-Tags: wordpress coming soon, wordpress maintenance mode. wordpress under construction, maintenance mode, coming soon, under construction, launch page, launch, maintenance, construction, offline, unavailable, newsletter, coming soon page, landing page, maintenance, admin, administration, coming soon, mode, multisite, unavailable, under construction, construction, landing page, launch, offline
-Requires at least: 3.0.1
-Tested up to: 4.3.1
-Stable tag: 1.1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Sunrise - Coming Soon & Maintenance Mode </br>
+Contributors: litonice13, jwthemeltd, codepassenger</br>
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jwthemeltd@gmail.com&lc=US&item_name=Donate&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest</br>
+Tags: wordpress coming soon, wordpress maintenance mode. wordpress under construction, maintenance mode, coming soon, under construction, launch page, launch, maintenance, construction, offline, unavailable, newsletter, coming soon page, landing page, maintenance, admin, administration, coming soon, mode, multisite, unavailable, under construction, construction, landing page, launch, offline</br>
+Requires at least: 3.0.1</br>
+Tested up to: 4.3.1</br>
+Stable tag: 1.1.0</br>
+License: GPLv2 or later</br>
+License URI: http://www.gnu.org/licenses/gpl-2.0.html</br>
 
 Premium features Site Down to Coming Soon or Maintenance Mode and Collects Subscriber Emails from Visitors. 
 
-== Description ==
+## Description ==
 
 **Sunrise - Coming Soon & Maintenance Mode** is the most easiest Plugin to make your website Maintenance Mode while you're working with updates, new features, Under Construction Mode. Sunrise has Premium Features, but it's a free Plugin !!!
 
